@@ -1,0 +1,26 @@
+{
+  "name": "@nitid/stylelint-plugin-nitid",
+  "version": "1.0.0",
+  "description": "Custom Stylelint rules for my project",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/your-stylelint-plugin.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-plugin",
+    "css",
+    "scss"
+  ],
+  "author": "Nitid Bit",
+  "license": "MIT",
+  "peerDependencies": {
+    "stylelint": ">=13.0.0" 
+  },
+  "devDependencies": {
+  }
+}
