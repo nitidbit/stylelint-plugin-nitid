@@ -1,6 +1,6 @@
 {
   "name": "@nitid/stylelint-plugin-nitid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom Stylelint rules for my project",
   "main": "lib/index.js",
   "scripts": {
